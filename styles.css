@@ -1,1 +1,55 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 1280px;
+    text-align: center;
+    color: black;
+    margin-left: 15px;
+    background-color: antiquewhite;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    background-color:antiquewhite;
+    padding: 50px;
+}
+li{
+    display: inline;
+    padding: 50px;
+    margin-bottom: 15px;
+}
+h2{
+    background-color: #c9c9c9;
+    padding: 50px;
+}
 
+img.local{
+    max-width: 50%;
+}
+#cuisine{
+    float: left;
+    flex: 50%;
+    width: 500px;
+    padding: 5px;
+    margin-left: 50px;
+}
+#chefly{
+    float: right;
+    flex: 50%;
+    width: 500px;
+    padding: 5px;
+    margin-right: 50px;
+}
+
+#menu{
+    padding: 15px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    background-color: #c9c9c9;
+}
+#food{
+    margin-left: -5px;
+}
+
+footer{
+    margin-top:700px;
+}

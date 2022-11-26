@@ -49,6 +49,12 @@ img.local{
 #food{
     margin-left: -5px;
 }
+#form{
+    width: 600px;
+    margin: 50px auto;
+    background-color: antiquewhite;
+    border-radius: 4px;
+}
 
 footer{
     margin-top:700px;
